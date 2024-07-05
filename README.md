@@ -20,7 +20,7 @@
 
 </div>
 
-## Hi, I'm Kkermit.!
+## Hi, I'm Miguel.!
 
 That's it from me :)
 
@@ -33,8 +33,6 @@ That's it from me :)
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=dracula" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&langs_count=6&icons=true&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-<img src="https://streak-stats.demolab.com?user=kkkermit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+
   
 </div>
