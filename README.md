@@ -3,7 +3,6 @@
 
 
 [![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/mational?style=flat&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/docs/)
 [![Atlassian](https://img.shields.io/badge/-Atlassian-informational?style=flat&logo=atlassian&logoColor=white&color=0052CC)](https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html)
 [![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
