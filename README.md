@@ -17,7 +17,7 @@
 
 ## Hi, I'm Miguel.!
 
-That's 
+I'm either developing, or just gaming :) 
 
 
 
