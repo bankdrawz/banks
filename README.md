@@ -11,6 +11,10 @@
 [![Vite](https://img.shields.io/badge/-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF)](https://vitejs.dev/)
 [![MySql](https://img.shields.io/badge/-MySql-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
 
+<a href="https://top.gg/bot/596768950830891018">
+  <img src="https://top.gg/api/widget/596768950830891018.svg">
+</a>
+
 
 
 </div>
