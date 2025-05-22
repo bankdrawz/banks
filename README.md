@@ -18,7 +18,7 @@
 <a href="https://discord.gg/tYvw4RHC8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tYvw4RHC8w" height="30" width="40" /></a>
 </p>
 
-[<a href="https://discord.com/channels/@me/375931932036431873">
+<a href="https://discord.com/channels/@me/375931932036431873">
   <img src="https://discord.c99.nl/widget/theme-2/375931932036431873.png" alt="Discord" />
 </a>
 
