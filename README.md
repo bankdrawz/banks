@@ -38,5 +38,6 @@
   <img src="https://top.gg/api/widget/596768950830891018.svg">
 </a>
 
+[![Discord Bots](https://top.gg/api/widget/1383146854161842186.svg)(https://top.gg/bot/1383146854161842186)
   
 </div>
