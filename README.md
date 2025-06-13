@@ -34,10 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secretfrr&" alt="secretfrr" /></p>
 
-<a href="https://top.gg/bot/596768950830891018">
-  <img src="https://top.gg/api/widget/596768950830891018.svg">
+<a href="https://top.gg/bot/1383146854161842186">
+  <img src="https://top.gg/api/widget/1383146854161842186.svg">
 </a>
-
-[![Discord Bots](https://top.gg/api/widget/1383146854161842186.svg)(https://top.gg/bot/1383146854161842186)
   
 </div>
