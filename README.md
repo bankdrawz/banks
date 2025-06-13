@@ -28,11 +28,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bankdrawz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bankdrawz" /></a><a href="https://ko-fi.com/bankdrawz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bankdrawz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=secretfrr&show_icons=true&locale=en&layout=compact" alt="secretfrr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankdrawz&show_icons=true&locale=en&layout=compact" alt="bankdrawz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=secretfrr&show_icons=true&locale=en" alt="secretfrr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bankdrawz&show_icons=true&locale=en" alt="bankdrawz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secretfrr&" alt="secretfrr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankdrawz&" alt="bankdrawz" /></p>
 
 <a href="https://top.gg/bot/1383146854161842186">
   <img src="https://top.gg/api/widget/1383146854161842186.svg">
