@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretfrr&label=Profile%20views&color=0e75b6&style=flat" alt="secretfrr" /> </p>
 
-- 🔭 I’m currently working on [bankdrawz.shop Portfolio](https://github.com/secretfrr/bankdrawz.shop)
+- 🔭 I’m currently working on [bankdrawz.shop Portfolio](https://github.com/bankdrawz/bankdrawz.shop)
 
-- 📫 How to reach me **smpt@bankdraws.shop**
+- 📫 How to reach me **smtp@bankdraws.lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
